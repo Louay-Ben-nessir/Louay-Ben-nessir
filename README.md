@@ -9,9 +9,9 @@
 
 ## ⚡️ Some stuff about me 
 
-👨‍💻 : I am Computer science student from Tunisia.🇹🇳
+👨‍🔧: I am Computer science student from Tunisia.🇹🇳
 
-👨‍🔧 : Im mainly intrested in Machine learning and competitive programing.🇹🇳
+👨‍💻 : Im mainly intrested in Machine learning and competitive programing.
 
 ## 💌 How to reach me:
 👉 : louaybennessir@gmail.com
