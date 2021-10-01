@@ -3,7 +3,7 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-alessiodp.vercel.app/api?username=Louay-Ben-nessir/&show_icons=true)
+![Stats](https://github-readme-stats-alessiodp.vercel.app/api?username=Louay-Ben-nessir&show_icons=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Louay-Ben-nessir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
